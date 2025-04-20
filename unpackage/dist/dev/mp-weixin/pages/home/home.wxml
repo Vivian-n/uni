@@ -1,0 +1,1 @@
+<view><navigator url="/pages/demo1/demo1">demo1</navigator><navigator url="/pages/index/index">index</navigator></view>
